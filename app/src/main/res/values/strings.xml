@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+
+    <string-array name="names">
+        <item>Muhammad Zubair</item>
+        <item>Syed Khubib</item>
+        <item>Mutahir Afzal</item>
+        <item>Mubashir khattak</item>
+        <item>Faisal Imran</item>
+
+    </string-array>
+
+    <string-array name="numbers">
+        <item>0313588720</item>
+        <item>03459044641</item>
+        <item>03088513397</item>
+        <item>03149696164</item>
+        <item>0300000000</item>
+
+    </string-array>
+</resources>
